@@ -1,4 +1,9 @@
+∆ One Time Process ∆
 1) Flash the magisk module and taichi magisk zip
 2) Install gameguardian , Mt Manager , Taichi and Sudohide
-3) Hide Pubg Mobile in Magisk Manager
-4) Open taichi app and 
+3) Open Magisk Manager -> Magisk Hide -> Tap on Pubg Mobile
+4) Open taichi app -> Update Module Engine -> Click on Icon at bottom -> Tap on Manage Modules -> Tap on sudohide 
+
+∆ Playing Game ∆
+Inside global folder in internal storage ,you will find start.sh file .Execute it using Mt manager - Game will start ,GG will start ,libs will get modded , auto log clear clearing ie everything will be automatic
+Whenever you close game , gg will close on its own , you can close mt manager once all process completes
